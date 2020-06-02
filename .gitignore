@@ -4,4 +4,4 @@ config/default.json
 
 package-lock.json
 
-# config/production.json
+config/production.json
