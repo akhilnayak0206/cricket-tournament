@@ -1,6 +1,6 @@
 # Cricket-Tournament  
 
-This is a cricket tournament to see various information about cricket.  
+This is a cricket tournament website to see various information about cricket.  
 This is a **MERN** project.  
 The Back End is made using **NodeJS & ExpressJS**.  
 The Front End is made using **ReactJS**.
