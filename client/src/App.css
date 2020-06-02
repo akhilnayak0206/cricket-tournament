@@ -1,0 +1,49 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.screen {
+  min-height: 100vh;
+}
+
+.content {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  padding: 5px;
+  overflow-y: scroll;
+}
+
+.horizontalFlex {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.horizontalFlexCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  width: 100%;
+}
+
+h2 {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva,
+    Verdana, sans-serif;
+}
+
+.card-header {
+  font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
+}
+
+.marginTop {
+  margin-top: 25px;
+}
+
+.marginBottom25 {
+  margin-bottom: 25px;
+}
+
+.colorWhite {
+  color: orange;
+}
